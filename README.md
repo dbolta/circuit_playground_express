@@ -1,7 +1,7 @@
 # circuit_playground_express
 ### Fun scripts on the Pycon 2019 swag 
-accelerometer lights - lights turn on in direction of accelerometer
-blink led - first test: blink red led
+accelerometer lights - lights turn on in direction of accelerometer 
+<br> blink led - first test: blink red led 
 light sensor lights - more leds light up around ring as more light detected
 pycon1 - initial pycon code to light in 3 different patterns
 pycon2/3 - add button toggling and play some cool movie quotes
